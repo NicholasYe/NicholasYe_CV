@@ -9,7 +9,7 @@ homepage:
   text: nicholasye
 ---
 
-## Tingzhen **Ye**
+# Tingzhen Ye
 
 <!--
 include contact information from the front matter
