@@ -10,7 +10,7 @@ homepage:
 ---
 
 # Tingzhen Ye
-# 
+.
 
 <!--
 include contact information from the front matter
