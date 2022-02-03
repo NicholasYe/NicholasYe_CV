@@ -78,6 +78,14 @@ An breathe assisting apparatus which provides oxygen to patients and suctions of
 - Soccer Tournament of University Freshman, HUST, Captain&Rank2(2/24)
 - Scholarship for Freshman Recreational and Sports, HUST
 
+## Skill List
+
+- Programming: C++(Experienced); Matlab(Experienced); Linux(Experienced); Python(Basic)
+- Microcontroller: Arduino(Proficient); Stm32(Experienced)
+- Circuit Design: Altium Designer(Skilled)
+- Modeling: Simulink(Skilled), Inventor(Experienced)
+- Writing: Markdown(Skilled)
+
 <!-- ### Footer
 
 Last updated: 2022.2.3 -->
