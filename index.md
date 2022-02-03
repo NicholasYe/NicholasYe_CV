@@ -37,7 +37,7 @@ B.S. in Electrical Engineering and Automation, School of Electrical and Electron
   - Analog Electronic Technology(II) 4.0 
   - Fundamentals of Computer Programming(C++) 4.0
 
-## Competition or Research Experience
+## Experience
 
 ### **1. HUST Robot Fighting Competition** `2020.11 - 2021.4`
 A Competition requires designing an autonomous robot car, the robot needs to detect other robots and push them out of the ring area. 
@@ -56,9 +56,11 @@ A Competition requires inventing a device for protecting environment and cutting
 - Designing the electrical structure of the device and assembling the electrical system.
 - Github: [Rubbish_Recycle_Robot](https://github.com/NicholasYe/Rubbish_Recycle_Robot) and [Rubbish_Recycle_Robot_CV](https://github.com/NicholasYe/Rubbish_Recycle_Robot_CV)
 
-### **3. Adaptive Active Damper Research** `2021.10 - Now`
+### **3. Patent of Portable Breathe Assisting Apparatus (Submitted)** `2021.9 - 2022.1`
+An breathe assisting apparatus which provides oxygen to patients and suctions of patients.
 
-- Supervisor: [Prof. XueHua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)
+- Designing the electrical structure of the device.
+- Modeling the apparatus through Autodesk Inventor.
 
 ## Scholarship and Award
 
@@ -76,4 +78,4 @@ A Competition requires inventing a device for protecting environment and cutting
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: 2022.2.3 -->
