@@ -38,10 +38,10 @@ B.S. in Electrical Engineering and Automation, School of Electrical and Electron
 ## Experience
 
 ### **Robot Fighting Competition** `2020.11 - 2021.4`
-_Programmer_<br>
+_**Outstanding Winner Award (Team 1/24)**_<br>
 
-- **Outstanding Winner Award *(Team 1/24)***
-
+- Programmer
+- 
 
 
 Work as the core programmer of freshman team. We use arduino as main control panel, photodiode sensor as well as ultrasonic sensor as detectors and motor driver to assemble our robot. As the programmer, I design both high-performance and high-reaction program to control to car on its own. We
