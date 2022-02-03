@@ -37,26 +37,26 @@ B.S. in Electrical Engineering and Automation, School of Electrical and Electron
   - Analog Electronic Technology(II) 4.0 
   - Fundamentals of Computer Programming(C++) 4.0
 
-## Experience
+## Competition or Research Experience
 
-### **Robot Fighting Competition** `2020.11 - 2021.4`
+### **1. HUST Robot Fighting Competition** `2020.11 - 2021.4`
 A Competition requires designing an autonomous robot car, the robot needs to detect other robots and push them out of the ring area. 
 
-_**Outstanding Winner Award (1 out of 24)**_<br>
+- _**Outstanding Winner Award (1 out of 24)**_<br>
 - Programming the robot control algorithm with varieties of functions. Powered by C++, on Arduino Broad.
 - Designing the electrical structure of the robot and assembling the electrical system.
 - Github: [Robot_Fighting_Competition](https://github.com/NicholasYe/Robot_Fighting_Competition)
 
-### **QingLang Innovation Competition** `2021.6 - 2021.12`
+### **2. Keenon Robot Innovation Competition** `2021.6 - 2021.12`
 A Competition requires inventing a device for protecting environment and cutting down carbon emissions. 
 
-_**First-Grade Award (3 out of 100)**_<br>
+- _**First-Grade Award (3 out of 100)**_<br>
 - Programming robot CV algorithm to identify the objects through OpenCV. Powered by Python, on Raspberry Pi 4B.
 - Developing Linux environment for invoking OpenCV library on Raspberry Board.
 - Designing the electrical structure of the device and assembling the electrical system.
 - Github: [Rubbish_Recycle_Robot](https://github.com/NicholasYe/Rubbish_Recycle_Robot) and [Rubbish_Recycle_Robot_CV](https://github.com/NicholasYe/Rubbish_Recycle_Robot_CV)
 
-### **** `2021.10 - Now`
+### **3. Adaptive Active Damper Research** `2021.10 - Now`
 
 - Supervisor: [Prof. XueHua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)
 
@@ -68,7 +68,7 @@ _**First-Grade Award (3 out of 100)**_<br>
 2020
 ```
 
-- Scholarship for "SiYuan" Outstanding Students, EEE (11/420)
+- Scholarship for Sieyuan Outstanding Students, EEE (11/420)
 - Scholarship for Scientific and Technological Innovation, HUST
 - Scholarship for Freshman Recreational and Sports, HUST
 
