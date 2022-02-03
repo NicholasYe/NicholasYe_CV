@@ -7,6 +7,9 @@ email:
 homepage:
   url: https://nicholasye.github.io/
   text: nicholasye
+github:
+  url: https://github.com/NicholasYe
+  text: nicholasye
 ---
 
 # Tingzhen Ye
