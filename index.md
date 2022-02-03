@@ -67,15 +67,24 @@ An breathe assisting apparatus which provides oxygen to patients and suctions of
 ```
 2021
 2021
+2021
+2021
 2020
 ```
 
-- Scholarship for Sieyuan Outstanding Students, EEE (11/420)
+- Scholarship for Sieyuan Outstanding Students, EEE, Rank11(11/420)
 - Scholarship for Scientific and Technological Innovation, HUST
+- Summer Social Practices Team, HUST, First-Grade Award
+- Soccer Tournament of University Freshman, HUST, Captain&Rank2(2/24)
 - Scholarship for Freshman Recreational and Sports, HUST
-
-
 
 <!-- ### Footer
 
 Last updated: 2022.2.3 -->
+
+
+### **3. Adaptive Active Damper Research** `2021.10 - Now`
+An Adaptive Active Damper for Improving the Stability of Grid-Connected Inverters Under Weak Grid
+- Designing 
+
+- Supervisor: [Prof. XueHua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)
