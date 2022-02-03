@@ -33,6 +33,12 @@ B.S. in Electrical Engineering and Automation, School of Electrical and Electron
 - GPA: 3.73/4.0
 - "SiYuan" Electrical Department Scholarship
 - Innovation of Electrical Department Scholarship 
+- Supervisor: [Prof. XueHua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)
+
+## Experience
+
+### **Robot Fighting Competition** `2020.11 - 2021.4`
+_Programmer_<br>
 
 
 
