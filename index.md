@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: NicholasYe's CV
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:tingzhen.ye@foxmail.com
+  text: tingzhen.ye@foxmail.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://nicholasye.github.io/
+  text: nicholasye
 ---
 
-# Wode **Ni**
+# Tingzhen **Ye**
 
 <!--
 include contact information from the front matter
