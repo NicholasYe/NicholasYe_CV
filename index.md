@@ -29,7 +29,7 @@ Supported arguments:
 Wuhan, China
 ```
 
-B.S. in Electrical Engineering and Automation, School of Electrical and Electronic Engineering (EEE in short)
+B.S. in Electrical Engineering and Automation, School of Electrical and Electronic Engineering (EEE)
 - GPA: 3.73/4.0
 - Scholarship for "SiYuan" Outstanding Students, EEE (11/420)
 - Scholarship for Scientific and Technological Innovation, EEE
