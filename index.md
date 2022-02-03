@@ -35,11 +35,12 @@ Wuhan, China
 
 B.S. in Electrical Engineering and Automation, School of Electrical and Electronic Engineering (EEE)
 - GPA: 3.73/4.0
-- Scholarship for "SiYuan" Outstanding Students, EEE (11/420)
-- Scholarship for Scientific and Technological Innovation, EEE
-- Supervisor: [Prof. XueHua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)
+- Relevant Coursework:
+  - Circuit Theory(I)&(II) 4.0&3.4
+  - Analog Electronic Technology(II) 4.0
+  - Fundamentals of Computer Programming(C++) 4.0
 
-## Experience and Award
+## Experience
 
 ### **Robot Fighting Competition** `2020.11 - 2021.4`
 _**Outstanding Winner Award (1 out of 24)**_<br>
@@ -52,8 +53,18 @@ A Competition requires designing an autonomous robot car, the robot needs to det
 _**First-Grade Award (3 out of 100)**_<br>
 A Competition requires inventing a device for protecting environment and cutting down carbon emissions. 
 - Programming robot CV algorithm to identify the objects through OpenCV. Powered by Python, on Raspberry Pi 4B.
-- Developing Linux environment for invoking OpenCV on Raspberry Board.
+- Developing Linux environment for invoking OpenCV library on Raspberry Board.
 - Designing the electrical structure of the device and assembling the electrical system.
+- Github: [Rubbish_Recycle_Robot](https://github.com/NicholasYe/Rubbish_Recycle_Robot) and [Rubbish_Recycle_Robot_CV](https://github.com/NicholasYe/Rubbish_Recycle_Robot_CV)
+
+### **** `2021.10 - Now`
+
+- Supervisor: [Prof. XueHua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)
+
+## Scholarship and Award
+
+- Scholarship for "SiYuan" Outstanding Students, EEE (11/420)
+- Scholarship for Scientific and Technological Innovation, EEE
 
 <!-- ### Footer
 
