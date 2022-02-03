@@ -29,10 +29,10 @@ Supported arguments:
 Wuhan, China
 ```
 
-B.S. in Electrical Engineering and Automation, School of Electrical and Electronic Engineering
+B.S. in Electrical Engineering and Automation, School of Electrical and Electronic Engineering (EEE in short)
 - GPA: 3.73/4.0
-- "SiYuan" Electrical Department Scholarship
-- Innovation of Electrical Department Scholarship 
+- Scholarship for "SiYuan" Outstanding Students, EEE (11/420)
+- Scholarship for Scientific and Technological Innovation, EEE
 - Supervisor: [Prof. XueHua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)
 
 ## Experience
@@ -40,7 +40,11 @@ B.S. in Electrical Engineering and Automation, School of Electrical and Electron
 ### **Robot Fighting Competition** `2020.11 - 2021.4`
 _Programmer_<br>
 
+- **Outstanding Winner Award *(Team 1/24)***
 
+
+
+Work as the core programmer of freshman team. We use arduino as main control panel, photodiode sensor as well as ultrasonic sensor as detectors and motor driver to assemble our robot. As the programmer, I design both high-performance and high-reaction program to control to car on its own. We
 
 <!-- ### Footer
 
