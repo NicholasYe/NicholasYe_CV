@@ -1,5 +1,4 @@
-This is my CV
-You can see it at [NicholasYe CV](https://nicholasye.github.io/NicholasYe_CV/)
+This is my CV, you can see it at [NicholasYe CV](https://nicholasye.github.io/NicholasYe_CV/)
 
 ---
 
