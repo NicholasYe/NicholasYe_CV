@@ -40,7 +40,7 @@ B.S. in Electrical Engineering and Automation, School of Electrical and Electron
 ### **Robot Fighting Competition** `2020.11 - 2021.4`
 _**Outstanding Winner Award (Team 1/24)**_<br>
 A Competition requires designing an autonomous robot car, the robot needs to detect other robots and push them out of the ring. 
-- Programming the robot control high-performance algorithm with varieties of functions, Powered by C++, on Arduino Broad.
+- Programming the robot control high-performance algorithm with varieties of functions. Powered by C++, on Arduino Broad.
 - Designing the electrical structure of the robot and Assembling the electrical system.
 
 <!-- ### Footer
