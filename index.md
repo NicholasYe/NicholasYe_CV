@@ -23,32 +23,17 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Huazhong University of Science and Technology** `2020.9 - Now`
 
 ```
-Pittsburgh, PA
+Wuhan, China
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+B.S. in Electrical Engineering and Automation, School of Electrical and Electronic Engineering
+- GPA: 3.73/4.0
+- "SiYuan" Electrical Department Scholarship
+- Innovation of Electrical Department Scholarship 
 
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
 
 ## Publications
 
