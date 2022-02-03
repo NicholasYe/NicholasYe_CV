@@ -63,8 +63,17 @@ A Competition requires inventing a device for protecting environment and cutting
 
 ## Scholarship and Award
 
+```
+2021
+2021
+2020
+```
+
 - Scholarship for "SiYuan" Outstanding Students, EEE (11/420)
-- Scholarship for Scientific and Technological Innovation, EEE
+- Scholarship for Scientific and Technological Innovation, HUST
+- Scholarship for Freshman Recreational and Sports, HUST
+
+
 
 <!-- ### Footer
 
