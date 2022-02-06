@@ -57,7 +57,7 @@ A Competition requires inventing a device for protecting environment and cutting
 - Github: [Rubbish_Recycle_Robot](https://github.com/NicholasYe/Rubbish_Recycle_Robot) and [Rubbish_Recycle_Robot_CV](https://github.com/NicholasYe/Rubbish_Recycle_Robot_CV)
 
 ### **3. Patent of Portable Breathe Assisting Apparatus (Submitted)** `2021.9 - 2022.1`
-An breathe assisting apparatus which provides oxygen to patients and suctions of patients.
+A breathe assisting apparatus which provides oxygen to patients and suctions of patients.
 
 - Designing the electrical structure of the device.
 - Modeling the apparatus through Autodesk Inventor.
@@ -69,13 +69,17 @@ An breathe assisting apparatus which provides oxygen to patients and suctions of
 2021
 2021
 2021
+2021
+2020
 2020
 ```
 
 - Scholarship for Sieyuan Outstanding Students, EEE, Rank11(11/420)
 - Scholarship for Scientific and Technological Innovation, HUST
+- Robot Fighting Competition, HUST, Outstanding Winner Award, Rank1(1/24)
+- Keenon Robot Innovation Competition, HUST, First-Grade Award, Rank3(3/100)
 - Summer Social Practices Team, HUST, First-Grade Award
-- Soccer Tournament of University Freshman, HUST, Captain&Rank2(2/24)
+- Soccer of University Freshman Cup, HUST, Captain&Rank2(2/24)
 - Scholarship for Freshman Recreational and Sports, HUST
 
 ## Skills List
@@ -89,3 +93,10 @@ An breathe assisting apparatus which provides oxygen to patients and suctions of
 <!-- ### Footer
 
 Last updated: 2022.2.3 -->
+
+
+### **3. Adaptive Active Damper Research** `2021.10 - Now`
+An Adaptive Active Damper for Improving the Stability of Grid-Connected Inverters Under Weak Grid
+- Designing 
+
+- Supervisor: [Prof. XueHua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)
