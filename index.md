@@ -92,11 +92,4 @@ A breathe assisting apparatus which provides oxygen to patients and suctions of 
 
 <!-- ### Footer
 
-Last updated: 2022.2.3 -->
-
-
-### **3. Adaptive Active Damper Research** `2021.10 - Now`
-An Adaptive Active Damper for Improving the Stability of Grid-Connected Inverters Under Weak Grid
-- Designing 
-
-- Supervisor: [Prof. XueHua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)
+Last updated: 2022.2.6 -->
