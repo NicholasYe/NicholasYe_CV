@@ -45,7 +45,6 @@ A Competition requires designing an autonomous robot car, the robot needs to det
 - _**Outstanding Winner Award (1 out of 24)**_<br>
 - Programming the robot control algorithm with varieties of functions. Powered by C++, on Arduino Broad.
 - Designing the electrical structure of the robot and assembling the electrical system.
-- Github: [Robot_Fighting_Competition](https://github.com/NicholasYe/Robot_Fighting_Competition)
 
 ### **2. Keenon Robot Innovation Competition** `2021.6 - 2021.12`
 A Competition requires inventing a device for protecting environment and cutting down carbon emissions. 
@@ -54,7 +53,6 @@ A Competition requires inventing a device for protecting environment and cutting
 - Programming robot CV algorithm to identify the objects through OpenCV. Powered by Python, on Raspberry Pi 4B.
 - Developing Linux environment for invoking OpenCV library on Raspberry Board.
 - Designing the electrical structure of the device and assembling the electrical system.
-- Github: [Rubbish_Recycle_Robot](https://github.com/NicholasYe/Rubbish_Recycle_Robot) and [Rubbish_Recycle_Robot_CV](https://github.com/NicholasYe/Rubbish_Recycle_Robot_CV)
 
 ### **3. Patent of Portable Breathe Assisting Apparatus (Submitted)** `2021.9 - 2022.1`
 A breathe assisting apparatus which provides oxygen to patients and suctions of patients.
@@ -92,4 +90,11 @@ A breathe assisting apparatus which provides oxygen to patients and suctions of 
 
 <!-- ### Footer
 
-Last updated: 2022.2.6 -->
+Last updated: 2022.2.3 -->
+
+
+### **3. Adaptive Active Damper Research** `2021.10 - Now`
+An Adaptive Active Damper for Improving the Stability of Grid-Connected Inverters Under Weak Grid
+- Designing 
+
+- Supervisor: [Prof. XueHua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)
