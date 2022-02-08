@@ -82,7 +82,7 @@ A breathe assisting apparatus which provides oxygen to patients and suctions of 
 
 ## Skills List
 
-- Programming: C++(Experienced); Matlab(Experienced); Linux(Experienced); Python(Basic)
+- Programming: C++(Skilled); Matlab(Experienced); Linux(Skilled); Python(Basic)
 - Microcontroller: Arduino(Proficient); Stm32(Experienced)
 - Circuit Design: Altium Designer(Skilled)
 - Modeling: Simulink(Skilled), Inventor(Experienced)
