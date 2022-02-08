@@ -68,8 +68,6 @@ A breathe assisting apparatus which provides oxygen to patients and suctions of 
 2021
 2021
 2021
-2020
-2020
 ```
 
 - Scholarship for Sieyuan Outstanding Students, EEE, Rank11(11/420)
@@ -77,8 +75,6 @@ A breathe assisting apparatus which provides oxygen to patients and suctions of 
 - Robot Fighting Competition, HUST, Outstanding Winner Award, Rank1(1/24)
 - Keenon Robot Innovation Competition, HUST, First-Grade Award, Rank3(3/100)
 - Summer Social Practices Team, HUST, First-Grade Award
-- Soccer of University Freshman Cup, HUST, Captain&Rank2(2/24)
-- Scholarship for Freshman Recreational and Sports, HUST
 
 ## Skills List
 
@@ -90,4 +86,4 @@ A breathe assisting apparatus which provides oxygen to patients and suctions of 
 
 <!-- ### Footer
 
-Last updated: 2022.2.3 -->
+Last updated: 2022.2.8 -->
