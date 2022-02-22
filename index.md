@@ -46,7 +46,7 @@ A Competition requires designing an autonomous robot car, the robot needs to det
 - Programming the robot control algorithm with varieties of functions. Powered by C++, on Arduino Broad.
 - Designing the electrical structure of the robot and assembling the electrical system.
 
-### **2. *KEENON* Robot Innovation Competition** `2021.6 - 2021.12`
+### **2. ** Robot Innovation Competition** `2021.6 - 2021.12`
 A Competition requires inventing a device for protecting environment and cutting down carbon emissions. 
 
 - _**First-Grade Award (3 out of 100)**_<br>
@@ -72,8 +72,8 @@ A breathe assisting apparatus which provides oxygen to patients and suctions of 
 
 - Scholarship for Sieyuan Outstanding Students, EEE, Rank11(11/420)
 - Scholarship for Scientific and Technological Innovation, HUST
-- Robot Fighting Competition, HUST, Outstanding Winner Award, Rank1(1/24)
-- Keenon Robot Innovation Competition, HUST, First-Grade Award, Rank3(3/100)
+- *MINDRAY* Robot Fighting Competition, HUST, Outstanding Winner Award, Rank1(1/24)
+- *KEENON* Robot Innovation Competition, HUST, First-Grade Award, Rank3(3/100)
 - Summer Social Practices Team, HUST, First-Grade Award
 
 ## Skills List
