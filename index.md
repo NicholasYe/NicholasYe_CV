@@ -39,14 +39,14 @@ B.S. in Electrical Engineering and Automation, School of Electrical and Electron
 
 ## Experience
 
-### **1. HUST Robot Fighting Competition** `2020.11 - 2021.4`
+### **1. *MINDRAY* Robot Fighting Competition** `2020.11 - 2021.4`
 A Competition requires designing an autonomous robot car, the robot needs to detect other robots and push them out of the ring area. 
 
 - _**Outstanding Winner Award (1 out of 24)**_<br>
 - Programming the robot control algorithm with varieties of functions. Powered by C++, on Arduino Broad.
 - Designing the electrical structure of the robot and assembling the electrical system.
 
-### **2. Keenon Robot Innovation Competition** `2021.6 - 2021.12`
+### **2. *KEENON* Robot Innovation Competition** `2021.6 - 2021.12`
 A Competition requires inventing a device for protecting environment and cutting down carbon emissions. 
 
 - _**First-Grade Award (3 out of 100)**_<br>
@@ -54,7 +54,7 @@ A Competition requires inventing a device for protecting environment and cutting
 - Developing Linux environment for invoking OpenCV library on Raspberry Board.
 - Designing the electrical structure of the device and assembling the electrical system.
 
-### **3. Patent of Portable Breathe Assisting Apparatus (Submitted)** `2021.9 - 2022.1`
+### **3. Patent of Portable Breathe Assisting Apparatus (Pending)** `2021.9 - 2022.1`
 A breathe assisting apparatus which provides oxygen to patients and suctions of patients.
 
 - Designing the electrical structure of the device.
@@ -86,4 +86,4 @@ A breathe assisting apparatus which provides oxygen to patients and suctions of 
 
 <!-- ### Footer
 
-Last updated: 2022.2.8 -->
+Last updated: 2022.2.23 -->
