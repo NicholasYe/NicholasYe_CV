@@ -46,7 +46,7 @@ A Competition requires designing an autonomous robot car, the robot needs to det
 - Programming the robot control algorithm with varieties of functions. Powered by C++, on Arduino Broad.
 - Designing the electrical structure of the robot and assembling the electrical system.
 
-### **2. ** Robot Innovation Competition** `2021.6 - 2021.12`
+### **2. *KEENON* Robot Innovation Competition** `2021.6 - 2021.12`
 A Competition requires inventing a device for protecting environment and cutting down carbon emissions. 
 
 - _**First-Grade Award (3 out of 100)**_<br>
