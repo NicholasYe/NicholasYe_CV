@@ -9,6 +9,7 @@ homepage:
   text: nicholasye
 phone: 
   url: 18170937125
+  text: 18170937125
 ---
 
 # Tingzhen Ye
