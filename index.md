@@ -7,7 +7,8 @@ email:
 homepage:
   url: https://nicholasye.github.io/
   text: nicholasye
-phone: **18170937125**
+phone: 
+  url: 18170937125
 ---
 
 # Tingzhen Ye
