@@ -30,10 +30,10 @@ Supported arguments:
 
 ## Education
 
-### **Huazhong University of Science and Technology** `Sep.2020 - Present`
+### **Huazhong University of Science and Technology** `Wuhan, China`
 
 ```
-Wuhan, China
+Sep.2020 - Present
 ```
 
 B.S. in Electrical Engineering and Automation
@@ -43,12 +43,12 @@ B.S. in Electrical Engineering and Automation
 ## Academic Experiences
 
 ### **1. Adaptive Active Damper** `Oct.2021 - Present`
-**Undergraduate Research assistant**
+*Undergraduate Research assistant*  &emsp;  *Supervisor: Prof. [Xuehua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)*
 
-- Design an adaptive active damper to improve the stability of grid-connected inverter under weak grid.
-- Supervisor: Prof. [Xuehua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)
+- Designing electrical board to drive IGBT from DSP signal.
+- Conducting researches about how electrical power grid stability performs when connecting with inverter current.
 
-### **2. *MINDRAY* Robot Fighting Competition** `Dec.2020 - Apr.2021`
+### **2. *MINDRAY* Robot Fighting Competition, Core Member** `Dec.2020 - Apr.2021`
 A Competition requires designing an autonomous robot car, the robot needs to detect other robots and push them out of the ring area. 
 
 - _**Outstanding Winner Award (1 out of 24), Core Member**_<br>
