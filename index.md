@@ -8,7 +8,7 @@ homepage:
   url: https://nicholasye.github.io/
   text: nicholasye
 phone: 
-  url: 18170937125
+  url: tel:18170937125
   text: 18170937125
 ---
 
@@ -89,11 +89,3 @@ Sep.2021
 <!-- ### Footer
 
 Last updated: 2022.3.4 -->
-
-
-### **3. Adaptive Active Damper Research** `2021.10 - Now`
-An Adaptive Active Damper for Improving the Stability of Grid-Connected Inverters Under Weak Grid
-- Designing 
-
-- Supervisor: [Prof. XueHua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)
-
