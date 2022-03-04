@@ -86,10 +86,10 @@ Sep.2021
 
 ## Technical Skills
 
-- Programming: C++(Skilled); Python(Basic); Linux(Skilled); Matlab(Experienced); Markdown(Proficient)
+- Programming: C++(Skilled); Python(Basic); Linux(Skilled); Matlab(Experienced); 
 - Microcontroller: Arduino(Proficient); Stm32(Experienced)
 - Electrical: Altium Designer(Skilled); Simulink(Skilled); Inventor(Experienced)
-
+- Tools: Markdown(Proficient); Github/Git(Skilled)
 
 <!-- ### Footer
 
