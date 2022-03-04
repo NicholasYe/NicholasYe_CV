@@ -7,8 +7,7 @@ email:
 homepage:
   url: https://nicholasye.github.io/
   text: nicholasye
-phone: 
-  text: 18170937125
+phone: **18170937125**
 ---
 
 # Tingzhen Ye
@@ -42,8 +41,8 @@ B.S. in Electrical Engineering and Automation
 A Competition requires designing an autonomous robot car, the robot needs to detect other robots and push them out of the ring area. 
 
 - _**Outstanding Winner Award (1 out of 24), Core Member**_<br>
-- Programming the robot control algorithm with environment perception and strategic decisions.
-- Designing the electrical structure of the robot and assembling the electrical system.
+- Programming the robot control algorithm with environment perception and strategic decisions through peripheral sensors.
+- Designing the electrical power supply system to different modules with different voltage.
 - Powered by C++, on Arduino Broad.
 
 ### **2. *KEENON* Robot Innovation Competition** `Jun.2021 - Dec.2021`
@@ -52,8 +51,8 @@ A Competition requires inventing a device for protecting environment and cutting
 - _**First-Grade Award (3 out of 100), Core Member**_<br>
 - Programming robot CV algorithm to identify the objects through OpenCV.
 - Developing Linux environment and invoking OpenCV library on Raspberry Board.
-- Designing the electrical structure of the device and assembling the electrical system.
-- Powered by Python, on Raspberry Pi 4B.
+- Designing expansion board with the aim of making use of all IO pin.
+- Powered by Python/C++, on Raspberry Pi 4B and Arduino Board.
 
 ### **3. Patent of Portable Breathe Assisting Apparatus (Pending)** `Sep.2021 - Jan.2022`
 A breathe assisting apparatus which provides oxygen to patients and suctions of patients.
