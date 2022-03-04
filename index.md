@@ -39,7 +39,12 @@ B.S. in Electrical Engineering and Automation
 
 ## Academic Experiences
 
-### **1. *MINDRAY* Robot Fighting Competition** `Dec.2020 - Apr.2021`
+### **1. Adaptive Active Damper** `Oct.2021 - Present`
+**Undergraduate Research assistant**
+Design an adaptive active damper to improve the stability of grid-connected inverter under weak grid.
+Supervisor: Prof. [Xuehua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)
+
+### **2. *MINDRAY* Robot Fighting Competition** `Dec.2020 - Apr.2021`
 A Competition requires designing an autonomous robot car, the robot needs to detect other robots and push them out of the ring area. 
 
 - _**Outstanding Winner Award (1 out of 24), Core Member**_<br>
@@ -47,7 +52,7 @@ A Competition requires designing an autonomous robot car, the robot needs to det
 - Designing the electrical power supply system to different modules with different voltage.
 - Powered by C++, on Arduino Broad.
 
-### **2. *KEENON* Robot Innovation Competition** `Jun.2021 - Dec.2021`
+### **3. *KEENON* Robot Innovation Competition** `Jun.2021 - Dec.2021`
 A Competition requires inventing a device for protecting environment and cutting down carbon emissions. 
 
 - _**First-Grade Award (3 out of 100), Core Member**_<br>
@@ -56,7 +61,7 @@ A Competition requires inventing a device for protecting environment and cutting
 - Designing expansion board with the aim of making use of all IO pin.
 - Powered by Python/C++, on Raspberry Pi 4B and Arduino Board.
 
-### **3. Patent of Portable Breathe Assisting Apparatus (Pending)** `Sep.2021 - Jan.2022`
+### **4. Patent of Portable Breathe Assisting Apparatus (Pending)** `Sep.2021 - Jan.2022`
 A breathe assisting apparatus which provides oxygen to patients and suctions of patients.
 
 - Designing the electrical structure such as electricity supply system and its PCB board.
