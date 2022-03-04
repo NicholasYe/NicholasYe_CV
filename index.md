@@ -7,7 +7,8 @@ email:
 homepage:
   url: https://nicholasye.github.io/
   text: nicholasye
-phone: 18170937125
+phone: 
+  text: 18170937125
 ---
 
 # Tingzhen Ye
@@ -25,7 +26,7 @@ Supported arguments:
 
 ## Education
 
-### **Huazhong University of Science and Technology** `2020.9 - Present`
+### **Huazhong University of Science and Technology** `Sep.2020 - Present`
 
 ```
 Wuhan, China
@@ -37,7 +38,7 @@ B.S. in Electrical Engineering and Automation
 
 ## Academic Experiences
 
-### **1. *MINDRAY* Robot Fighting Competition** `2020.11 - 2021.4`
+### **1. *MINDRAY* Robot Fighting Competition** `Dec.2020 - Apr.2021`
 A Competition requires designing an autonomous robot car, the robot needs to detect other robots and push them out of the ring area. 
 
 - _**Outstanding Winner Award (1 out of 24), Core Member**_<br>
@@ -45,7 +46,7 @@ A Competition requires designing an autonomous robot car, the robot needs to det
 - Designing the electrical structure of the robot and assembling the electrical system.
 - Powered by C++, on Arduino Broad.
 
-### **2. *KEENON* Robot Innovation Competition** `2021.6 - 2021.12`
+### **2. *KEENON* Robot Innovation Competition** `Jun.2021 - Dec.2021`
 A Competition requires inventing a device for protecting environment and cutting down carbon emissions. 
 
 - _**First-Grade Award (3 out of 100), Core Member**_<br>
@@ -54,20 +55,20 @@ A Competition requires inventing a device for protecting environment and cutting
 - Designing the electrical structure of the device and assembling the electrical system.
 - Powered by Python, on Raspberry Pi 4B.
 
-### **3. Patent of Portable Breathe Assisting Apparatus (Pending)** `2021.9 - 2022.1`
+### **3. Patent of Portable Breathe Assisting Apparatus (Pending)** `Sep.2021 - Jan.2022`
 A breathe assisting apparatus which provides oxygen to patients and suctions of patients.
 
-- Designing the electrical structure of the device such as power supply system and its PCB board.
-- Modeling the apparatus in detail through Autodesk Inventor.
+- Designing the electrical structure such as electricity supply system and its PCB board.
+- Modeling whole structure of the apparatus through Autodesk Inventor.
 
 ## Honors & Awards
 
 ```
-May/2021
-Sep/2021
-Apr/2021
-Oct/2021
-Sep/2021
+May.2021
+Sep.2021
+Apr.2021
+Dec.2021
+Sep.2021
 ```
 
 - Scholarship for Sieyuan Outstanding Students, EEE, Rank11(11/420)
@@ -78,12 +79,20 @@ Sep/2021
 
 ## Technical Skills
 
-- Programming: C++(Skilled); Matlab(Experienced); Linux(Skilled); Python(Basic)
+- Programming: C++(Skilled); Python(Basic); Linux(Skilled); Matlab(Experienced)
 - Microcontroller: Arduino(Proficient); Stm32(Experienced)
 - Circuit Design: Altium Designer(Skilled)
 - Modeling: Simulink(Skilled), Inventor(Experienced)
-- Writing: Markdown(Skilled)
+- Writing: Markdown(Proficient)
 
 <!-- ### Footer
 
 Last updated: 2022.3.4 -->
+
+
+### **3. Adaptive Active Damper Research** `2021.10 - Now`
+An Adaptive Active Damper for Improving the Stability of Grid-Connected Inverters Under Weak Grid
+- Designing 
+
+- Supervisor: [Prof. XueHua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)
+
