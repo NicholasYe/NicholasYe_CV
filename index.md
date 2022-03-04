@@ -10,6 +10,9 @@ homepage:
 phone: 
   url: tel:18170937125
   text: 18170937125
+place:
+  url: https://www.google.com/maps/place/Huazhong+University+of+Science+and+Technology/@30.5130089,114.4180869,17z/
+  text: HUST, Wuhan, China
 ---
 
 # Tingzhen Ye
