@@ -42,7 +42,7 @@ B.S. in Electrical Engineering and Automation
 ### **1. Adaptive Active Damper** `Oct.2021 - Present`
 **Undergraduate Research assistant**
 
-- Design an adaptive active damper to improve the stability of grid-connected - inverter under weak grid.
+- Design an adaptive active damper to improve the stability of grid-connected inverter under weak grid.
 - Supervisor: Prof. [Xuehua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)
 
 ### **2. *MINDRAY* Robot Fighting Competition** `Dec.2020 - Apr.2021`
@@ -86,11 +86,10 @@ Sep.2021
 
 ## Technical Skills
 
-- Programming: C++(Skilled); Python(Basic); Linux(Skilled); Matlab(Experienced)
+- Programming: C++(Skilled); Python(Basic); Linux(Skilled); Matlab(Experienced); Markdown(Proficient)
 - Microcontroller: Arduino(Proficient); Stm32(Experienced)
-- Circuit Design: Altium Designer(Skilled)
-- Modeling: Simulink(Skilled), Inventor(Experienced)
-- Writing: Markdown(Proficient)
+- Electrical: Altium Designer(Skilled); Simulink(Skilled); Inventor(Experienced)
+
 
 <!-- ### Footer
 
