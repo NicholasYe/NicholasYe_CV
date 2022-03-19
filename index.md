@@ -45,7 +45,7 @@ B.S. in Electrical Engineering and Automation
 ### **1. Adaptive Active Damper** `Oct.2021 - Present`
 *Undergraduate Research assistant*  &emsp;  *Supervisor: Prof. [Xuehua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)*
 
-- Designing electrical board to drive IGBT from DSP signal.
+- Designing electrical control board to drive IGBT from DSP signal.
 - Conducting researches about how electrical power grid stability performs when connecting with inverter current.
 
 ### **2. *MINDRAY* Robot Fighting Competition, Core Member** `Dec.2020 - Apr.2021`
