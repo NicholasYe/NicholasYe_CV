@@ -38,7 +38,7 @@ Sep.2020 - Present
 
 B.S. in Electrical Engineering and Automation
 - GPA: 3.73/4.0
-- Relevant Coursework: Circuit Theory(I)&(II) 4.0&3.4; Analog Electronic Technology(II) 4.0; Fundamentals of Computer Programming(C++) 4.0; Linear Algebra 4.0; Database technology and its application 3.7; Physics (I)&(II) 3.9&3.7
+- Relevant Coursework: Circuit Theory(I)&(II) 4.0&3.4; Analog Electronic Technology 4.0; Fundamentals of Computer Programming(C++) 4.0; Linear Algebra 4.0; Database technology and its application 3.7; Physics (I)&(II) 3.9&3.7
 
 ## Academic Experiences
 
@@ -48,7 +48,7 @@ B.S. in Electrical Engineering and Automation
 - Designing electrical control board to drive IGBT from DSP signal.
 - Conducting researches about how electrical power grid stability performs when connecting with inverter current.
 
-### **2. *MINDRAY* Robot Fighting Competition, Core Member** `Dec.2020 - Apr.2021`
+### **2. *MINDRAY* Robot Fighting Competition** `Dec.2020 - Apr.2021`
 A Competition requires designing an autonomous robot car, the robot needs to detect other robots and push them out of the ring area. 
 
 - _**Outstanding Winner Award (1 out of 24), Core Member**_<br>
@@ -89,7 +89,7 @@ Sep.2021
 
 ## Technical Skills
 
-- Programming: C++(Skilled); Python(Basic); Linux(Skilled); Matlab(Experienced); 
+- Programming: C++(Skilled); Python(Basic); Linux(Skilled); Matlab(Experienced)
 - Microcontroller: Arduino(Proficient); Stm32(Experienced)
 - Electrical: Altium Designer(Skilled); Simulink(Skilled); Inventor(Experienced)
 - Tools: Markdown(Proficient); Github/Git(Skilled)
