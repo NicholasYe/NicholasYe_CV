@@ -62,7 +62,7 @@ A Competition requires inventing a device for protecting environment and cutting
 ### **3. Wireless charging device of electric vehicles with SiC MOSFET** `Apr.2021 - Apr.2022`
 A power electric project aiming at taking part in National Undergraduate Training Program for Innovation and Entrepreneurship.
 
-- _**Honorable award(Province competition)**_<br>
+- _**Honorable award (Province competition)**_<br>
 - Programming microcontroller to generate PWM and SPWM waves to drive SiC MOSFET at a high frequency.
 - Implement a wireless communication module into the STM32F407 microcontroller.
 - Powered by C, on STM32F407 board.
@@ -98,4 +98,4 @@ Sep.2021
 
 <!-- ### Footer
 
-Last updated: 2022.3.4 -->
+Last updated: 2022.4.25 -->
