@@ -42,13 +42,13 @@ B.S. in Electrical Engineering and Automation
 
 ## Academic Experiences
 
-### **1. *MINDRAY* Robot Fighting Competition** `Dec.2020 - Apr.2021`
-A Competition requires designing an autonomous robot car, the robot needs to detect other robots and push them out of the ring area. 
+### **1. Wireless charging device of electric vehicles with SiC MOSFET** `Apr.2021 - Apr.2022`
+A power electric project aiming at taking part in National Undergraduate Training Program for Innovation and Entrepreneurship.
 
-- _**Outstanding Winner Award (1 out of 24), Core Member**_<br>
-- Programming the robot control algorithm with environment perception and strategic decisions through peripheral sensors.
-- Designing the electrical power supply system to different modules with different voltage.
-- Powered by C++, on Arduino Broad.
+- _**Honorable award (Province competition)**_<br>
+- Programming microcontroller to generate PWM and SPWM waves to drive SiC MOSFET at a high frequency.
+- Implement a wireless communication module into the STM32F407 microcontroller.
+- Powered by C, on STM32F407 board.
 
 ### **2. *KEENON* Robot Innovation Competition** `Jun.2021 - Dec.2021`
 A Competition requires inventing a device for protecting environment and cutting down carbon emissions. 
@@ -59,15 +59,23 @@ A Competition requires inventing a device for protecting environment and cutting
 - Designing expansion board with the aim of making use of all IO pin.
 - Powered by Python/C++, on Raspberry Pi 4B and Arduino Board.
 
-### **3. Wireless charging device of electric vehicles with SiC MOSFET** `Apr.2021 - Apr.2022`
-A power electric project aiming at taking part in National Undergraduate Training Program for Innovation and Entrepreneurship.
+### **3. *MINDRAY* Robot Fighting Competition** `Dec.2020 - Apr.2021`
+A Competition requires designing an autonomous robot car, the robot needs to detect other robots and push them out of the ring area. 
 
-- _**Honorable award (Province competition)**_<br>
-- Programming microcontroller to generate PWM and SPWM waves to drive SiC MOSFET at a high frequency.
-- Implement a wireless communication module into the STM32F407 microcontroller.
-- Powered by C, on STM32F407 board.
+- _**Outstanding Winner Award (1 out of 24), Core Member**_<br>
+- Programming the robot control algorithm with environment perception and strategic decisions through peripheral sensors.
+- Designing the electrical power supply system to different modules with different voltage.
+- Powered by C++, on Arduino Broad.
 
-### **4. Patent of Portable Breathe Assisting Apparatus (Pending)** `Sep.2021 - Jan.2022`
+### **4. Adaptive Active Damper Model** `Oct.2021 - Mar.2022`
+Modeling an adaptive active damper to improve the stability of grid-connected inverter under weak grid. *Supervisor: Prof. [Xuehua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)*
+
+- Modeling electrical circuit and designing control algorithm.
+- Adjusting some electrical parameter into order to stabilize the background harmonics.
+- Powered by simulink, on Matlab.
+
+
+### **5. Patent of Portable Breathe Assisting Apparatus (Pending)** `Sep.2021 - Jan.2022`
 A breathe assisting apparatus which provides oxygen to patients and suctions of patients.
 
 - Designing the electrical structure such as electricity supply system and its PCB board.
@@ -98,4 +106,4 @@ Sep.2021
 
 <!-- ### Footer
 
-Last updated: 2022.4.25 -->
+Last updated: 2022.4.28 -->
