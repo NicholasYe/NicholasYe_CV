@@ -68,7 +68,7 @@ A Competition requires designing an autonomous robot car, the robot needs to det
 - Powered by C++, on Arduino Broad.
 
 ### **4. Adaptive Active Damper Model** `Oct.2021 - Mar.2022`
-Modeling an adaptive active damper to improve the stability of grid-connected inverter under weak grid. *Supervisor: Prof. [Xuehua Wang](http://faculty.hust.edu.cn/wangxuehua/zh_CN/index.htm)*
+Modeling an adaptive active damper to improve the stability of grid-connected inverter under weak grid.
 
 - Modeling electrical circuit and designing control algorithm.
 - Adjusting some electrical parameter into order to stabilize the background harmonics.
