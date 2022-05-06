@@ -84,6 +84,7 @@ A breathe assisting apparatus which provides oxygen to patients and suctions of 
 ## Honors & Awards
 
 ```
+Apr.2022
 May.2021
 Sep.2021
 Apr.2021
@@ -91,6 +92,7 @@ Dec.2021
 Sep.2021
 ```
 
+- The American Mathematical Contest in Modeling, Meritorious price(8%)
 - Scholarship for Sieyuan Outstanding Students, EEE, Rank11(11/420)
 - Scholarship for Scientific and Technological Innovation, HUST
 - *MINDRAY* Robot Fighting Competition, HUST, Outstanding Winner Award, Rank1(1/24)
@@ -106,4 +108,4 @@ Sep.2021
 
 <!-- ### Footer
 
-Last updated: 2022.4.30 -->
+Last updated: 2022.5.6 -->
