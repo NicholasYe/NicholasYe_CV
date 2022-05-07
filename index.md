@@ -92,7 +92,7 @@ Dec.2021
 Sep.2021
 ```
 
-- The American Mathematical Contest in Modeling, Meritorious price(7%)
+- The American Mathematical Contest in Modeling, Meritorious price(<10%)
 - Scholarship for Sieyuan Outstanding Students, EEE, Rank11(11/420)
 - Scholarship for Scientific and Technological Innovation, HUST
 - *MINDRAY* Robot Fighting Competition, HUST, Outstanding Winner Award, Rank1(1/24)
@@ -108,4 +108,4 @@ Sep.2021
 
 <!-- ### Footer
 
-Last updated: 2022.5.6 -->
+Last updated: 2022.5.7 -->
